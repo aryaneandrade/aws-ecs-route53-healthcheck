@@ -1,5 +1,11 @@
 # 🛰️ Monitoramento 24/7 de Aplicação de Gerenciamento de Tarefas na AWS (ECS, Route 53, CloudWatch)
 
+![GitHub repo size](https://img.shields.io/github/repo-size/aryaneandrade/mentoria-aws-monitoramento-app)
+![GitHub stars](https://img.shields.io/github/stars/aryaneandrade/mentoria-aws-monitoramento-app?style=social)
+![GitHub last commit](https://img.shields.io/github/last-commit/aryaneandrade/mentoria-aws-monitoramento-app)
+![AWS](https://img.shields.io/badge/built%20with-AWS-orange?logo=amazonaws&logoColor=white)
+![Status](https://img.shields.io/badge/status-concluído-brightgreen)
+
 Este projeto foi desenvolvido como parte da **Mentoria Desafio Labs 2.0 – Formação de Arquitetos AWS**, conduzida por **Henrylle Maia**.
 
 O objetivo deste laboratório prático foi implementar uma arquitetura com **monitoramento externo e alta disponibilidade** para uma aplicação containerizada na AWS, garantindo **observabilidade global** e **resposta proativa a falhas**.
