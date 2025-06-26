@@ -44,15 +44,12 @@ A aplicação simula um cenário real de produção, utilizando diversos serviç
 
 ## 🖼️ Diagrama da Arquitetura
 
-> Substitua o conteúdo abaixo pela imagem do diagrama da solução (adicione na pasta `/images`):
-
 ![Arquitetura da Solução](./images/arquitetura.png)
 
 ---
 
 ## 📷 Capturas de Tela
 
-> Inclua aqui capturas relevantes do Console da AWS:
 
 - `![ECS Services](./images/ecs-services.png)`
 - `![CloudWatch Alarms](./images/cloudwatch-alarms.png)`
