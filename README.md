@@ -1,4 +1,4 @@
-# 🛰️ Monitoramento 24/7 de Aplicação de Gerenciamento de Tarefas na AWS (ECS, Route 53, CloudWatch)
+# 🛰️ Monitoramento 24/7 de Aplicação na AWS (ECS, Route 53, CloudWatch)
 
 ![GitHub repo size](https://img.shields.io/github/repo-size/aryaneandrade/mentoria-aws-monitoramento-app)
 ![GitHub stars](https://img.shields.io/github/stars/aryaneandrade/mentoria-aws-monitoramento-app?style=social)
