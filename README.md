@@ -50,11 +50,13 @@ A aplicação simula um cenário real de produção, utilizando diversos serviç
 
 ## 📷 Capturas de Tela
 
+![ECS Services](./images/ecs-services.png)`
 
-- `![ECS Services](./images/ecs-services.png)`
-- `![CloudWatch Alarms](./images/cloudwatch-alarms.png)`
-- `![Route 53 Health Check](./images/route53-healthcheck.png)`
-- `![SNS Notification](./images/sns-notification.png)`
+![CloudWatch Alarms](./images/cloudwatch-alarms.png)`
+
+![Route 53 Health Check](./images/route53-healthcheck.png)`
+
+![SNS Notification](./images/sns-notification.png)`
 
 ---
 
