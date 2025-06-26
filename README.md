@@ -50,17 +50,23 @@ A aplicação simula um cenário real de produção, utilizando diversos serviç
 
 ## 📷 Capturas de Tela
 
+### Endpoint Público da Aplicação Acessível pelo Navegador
+![APP TASKS](./images/app.png)
+
+### Configuração do Health Check no Route 53 para o Endpoint da Aplicação 
+![Route 53 Health Check](./images/route53-healthcheck.png)
+
 ### Visão Geral do Cluster ECS com o Serviço e Tasks em Execução
 ![ECS Services](./images/ecs-services.png)
 
 ### Alarme no CloudWatch Monitorando a Saúde do Health Check
 ![CloudWatch Alarms](./images/cloudwatch-alarms.png)
 
-### Configuração do Health Check no Route 53 para o Endpoint da Aplicação 
-![Route 53 Health Check](./images/route53-healthcheck.png)
-
 ### Notificação Recebida via Email Após Indisponibilidade Detectada
 ![SNS Notification](./images/sns-notification.png)
+
+### Resource Map do Application Load Balancer mostrando a arquitetura de tráfego
+![ALB](./images/alb.png)
 
 ---
 
